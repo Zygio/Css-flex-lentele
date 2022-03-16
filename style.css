@@ -1,0 +1,33 @@
+header{
+    background-color: aqua;
+    height: 20vh;
+
+}
+.container{
+    height:80vh ;
+    flex-wrap: wrap;
+    flex-direction: column;
+    display: flex;
+}
+.nav{
+    width: 30%;
+    height: 50%;
+    background-color: rgb(131, 49, 209);
+
+}
+.ads{
+    width: 30%;
+    height: 50%;
+    background-color: rgb(33, 235, 100);
+
+}
+.article{
+    width: 70%;
+    height: 80%;
+    background-color: brown;
+}
+.footer{
+    width: 70%;
+    height: 20%;
+    background-color: rgb(227, 241, 24);
+}
